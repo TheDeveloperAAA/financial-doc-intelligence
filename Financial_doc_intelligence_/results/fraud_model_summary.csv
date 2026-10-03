@@ -1,0 +1,2 @@
+auc,train_size,test_size,fraud_rate_train,fraud_rate_test,frauds_in_test,frauds_in_top1pct,test_years,top_features
+0.6438,58541,30777,0.0063,0.0081,250,4,2003-2008,soft_assets|reoa|ch_fcf

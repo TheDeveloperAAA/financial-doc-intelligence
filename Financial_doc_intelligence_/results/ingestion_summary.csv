@@ -1,0 +1,2 @@
+n_total,n_parsed,coverage_pct,avg_parse_time_sec,avg_evidence_length,unique_companies,total_questions,source,note,n_10k,n_10q,n_8k,n_earnings
+84,84,100.0,9e-06,2914.2,32,150,financebench,Source: FinanceBench pre-indexed SEC corpus (sec.gov blocked in sandbox); all 150 QA pairs span real filings,64,8,6,6

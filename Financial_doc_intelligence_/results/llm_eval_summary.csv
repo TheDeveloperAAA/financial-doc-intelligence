@@ -1,0 +1,2 @@
+mode,n_questions,n_api_errors,exact_match_pct,numeric_match_pct,precision_pct,recall_pct,answer_recoverability_pct,err_Type3_table_misread,err_Type1_unit_hallucination
+regex,150,0,6.7,6.7,6.8,6.7,25.3,99.3,0.7

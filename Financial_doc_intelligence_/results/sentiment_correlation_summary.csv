@@ -1,0 +1,2 @@
+n_samples,synthetic_transcripts,pearson_r,p_value,neg_shift_then_miss,note,eps_measure,eps_rows_fetched
+0,True,,,,insufficient overlapping data (n=0),"net income QoQ % change (yfinance income statement), not consensus surprise",0
